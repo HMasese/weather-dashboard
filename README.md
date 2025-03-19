@@ -48,7 +48,7 @@ npm run start:dev
 Clone Repository, Install Dependencies, Setup Environment Variables, Run Project locally
 
 ## Credits
-phil, dylan, aley, shidu
+phil, dylan, aley, sidhaud
 
 ## License
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code. https://choosealicense.com/licenses/mit/
